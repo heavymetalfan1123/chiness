@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Остаток</title>
+    <title>my site</title>
     <style>
         body{
             background-color: #32ff7e;
