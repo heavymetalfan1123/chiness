@@ -51,6 +51,7 @@
             <input type="text" name="date1">
             
             <input type="submit" value="вводик ">
+            <input type="submit" value="возврат "><a href="https://chinesse.herokuapp.com"></a>
         </form>
         <p>
         <?php
