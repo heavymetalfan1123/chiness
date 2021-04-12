@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>my site</title>
+    <script data-ad-client="ca-pub-2236684363636022" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <style>
         body{
             background-color: #32ff7e;
